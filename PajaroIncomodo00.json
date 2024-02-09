@@ -1,6 +1,6 @@
 { 
    "description": "NFT cero en blanco, para evitar el bug que el primer minteo sale sin image preview", 
-   "image": "https://raw.githubusercontent.com/ceteco/Retrowave-Industrial-Dreams/main/reid00.gif", 
+   "image": "https://raw.githubusercontent.com/ceteco/PajarosIncomodosT1AH/main/Placeholder00.png", 
    "name": "NFT Vacio", 
    "attributes": [ 
      { 
