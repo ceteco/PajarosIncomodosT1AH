@@ -1,0 +1,11 @@
+{ 
+   "description": "La gota que derramo el batido", 
+   "image": "https://raw.githubusercontent.com/ceteco/PajarosIncomodosT1AH/main/PajaroMosca01.png", 
+   "name": "Pajaro y mosca, 
+   "attributes": [ 
+     { 
+       "trait_type": "Art-created-by", 
+       "value": "sucito" 
+     }
+   ] 
+ }
