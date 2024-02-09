@@ -1,0 +1,11 @@
+{ 
+   "description": "NFT cero en blanco, para evitar el bug que el primer minteo sale sin image preview", 
+   "image": "https://raw.githubusercontent.com/ceteco/Retrowave-Industrial-Dreams/main/reid00.gif", 
+   "name": "NFT Vacio", 
+   "attributes": [ 
+     { 
+       "trait_type": "Art-created-by", 
+       "value": "sucito" 
+     }
+   ] 
+ }
